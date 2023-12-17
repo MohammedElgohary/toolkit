@@ -1,6 +1,5 @@
 /***
  * localStorage `class`
- *
  */
 export default class LocalStorage {
   constructor() {}
